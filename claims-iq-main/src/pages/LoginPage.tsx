@@ -81,7 +81,7 @@ export default function LoginPage({ onLogin }: Props) {
             <h1 className="text-lg font-bold text-white">ClaimsIQ</h1>
           </div>
 
-          <h2 className="text-2xl font-bold text-white">Welcome back</h2>
+          <h2 className="text-2xl font-bold text-white">Welcome to ClaimIQ</h2>
           <p className="mt-1.5 text-sm text-navy-300">Sign in to your claims dashboard.</p>
 
           <form onSubmit={submit} className="mt-8 space-y-5">

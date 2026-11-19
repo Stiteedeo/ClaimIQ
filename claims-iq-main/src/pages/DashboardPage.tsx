@@ -95,7 +95,7 @@ export default function DashboardPage({ onOpenClaim }: Props) {
   return (
     <div className="space-y-6 animate-fade-in">
       <div>
-        <h1 className="text-2xl font-bold text-navy-900">Dashboard</h1>
+        <h1 className="text-2xl font-bold text-navy-900"> Claim Dashboard</h1>
         <p className="text-sm text-navy-400">Claims intelligence overview — updated live.</p>
       </div>
 
